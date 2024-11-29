@@ -1,0 +1,12 @@
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #2E4053;
+    -fx-font-weight: bold;
+}
+
+.text-field, .date-picker {
+    -fx-font-size: 14px;
+    -fx-border-color: #5DADE2;
+    -fx-border-width: 1px;
+    -fx-padding: 5px;
+}
