@@ -1,2 +1,0 @@
-Samiullah,107,Male,Punjab,2024-10-27
-Aqib,150,Male,Kamalia,2024-10-31
